@@ -1,11 +1,20 @@
-# Data Scientist Project
+# Image Classifier
+The aim of this project was to develop code for a Deep Learning image classifier built with PyTorch, then convert it into a command line application.
 
-Project code for Udacity's Data Scientist Nanodegree program. In this project, you will first develop code for an image classifier built with PyTorch, then you will convert it into a command line application.
+### Installations
+For the development of the project, the following Python libraries were required: 
 
-In order to complete this project, you will need to use the GPU enabled workspaces within the classroom.  The files are all available here for your convenience, but running on your local CPU will likely not work well.
+Pandas
+Numpy
+PyTorch
+Matplotlib
+In addition, Python 3 was used. 
 
-You should also only enable the GPU when you need it. If you are not using the GPU, please disable it so you do not run out of time!
+### Summary
+This project is part of the first term of the Data Scientists Nanodegree of Udacity. The main objective was to create an app that trains a Deep Learning model on a dataset of images, then use the trained model to classify images.
 
 ### Data
+The data for this project is quite large - in fact, it is so large we cannot upload it onto Github. We will be training using 102 different types of flowers, with ~20 images per flower to train on.
 
-The data for this project is quite large - in fact, it is so large you cannot upload it onto Github.  If you would like the data for this project, you will want download it from the workspace in the classroom.  Though actually completing the project is likely not possible on your local unless you have a GPU.  You will be training using 102 different types of flowers, where there ~20 images per flower to train on.  Then you will use your trained classifier to see if you can predict the type for new images of the flowers.
+### Author
+Jessica Garre Morales
