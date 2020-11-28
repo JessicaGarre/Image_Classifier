@@ -4,10 +4,11 @@ The aim of this project was to develop code for a Deep Learning image classifier
 ### Installations
 For the development of the project, the following Python libraries were required: 
 
-Pandas
-Numpy
-PyTorch
+Pandas,
+Numpy,
+PyTorch,
 Matplotlib
+
 In addition, Python 3 was used. 
 
 ### Summary
