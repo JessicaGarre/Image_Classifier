@@ -2,14 +2,13 @@
 The aim of this project was to develop code for a Deep Learning image classifier built with PyTorch, then convert it into a command line application.
 
 ### Installations
-For the development of the project, the following Python libraries were required: 
 
-Pandas,
-Numpy,
-PyTorch,
-Matplotlib
+This project requires **Python 3.x** and the following Python libraries installed:
 
-In addition, Python 3 was used. 
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
 ### Summary
 This project is part of the first term of the Data Scientists Nanodegree of Udacity. The main objective was to create an app that trains a Deep Learning model on a dataset of images, then use the trained model to classify images.
